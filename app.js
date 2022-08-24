@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 5a - データベースにアクセスする
+ *  Lesson DB 1 - データベースにアクセスする
  * 
  * [NOTE]
  */
